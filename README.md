@@ -73,5 +73,5 @@ For further exploration, we may:
 ## Authors
 This project is completed by:
 - Ali Shaikh Qasem.
-- Abdelrahamn Jaber.
+- Abdelrahman Jaber.
 
